@@ -1,0 +1,39 @@
+.image1:hover{
+    opacity: 0.5;
+ }
+ body
+ {
+    font-family: cursive;
+    background: rgb(0, 216, 11);
+ }
+ 
+ .header_div
+ {
+    background: rgb(128, 77, 0);
+    color: rgb(0, 70, 161);
+ }
+
+ .header_div p{
+    font-family: cursive, sans-serif;
+    color: rgb(79, 255, 196);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+ }
+ .main_div button{
+    font-family: cursive, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+ }
+ .copy_right_footer {
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aqua;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(68, 67, 67);
+ }
